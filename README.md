@@ -1,5 +1,5 @@
 # 💫 About Me:
-yur
+Coding mainly for university/fun/gamedev
 
 
 # 💻 Tech Stack:
